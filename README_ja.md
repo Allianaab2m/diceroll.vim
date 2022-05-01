@@ -1,5 +1,6 @@
 # diceroll.vim
 __大量のエラーログを見て SAN 値チェックが必要？diceroll.vim にお任せください。__
+![example](static/example.gif)
 
 ## インストール
 Packer

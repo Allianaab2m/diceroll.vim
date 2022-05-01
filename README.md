@@ -1,5 +1,6 @@
 # diceroll.vim
 __Need to check *Sanity values* after seeing a huge number of error logs? diceroll.vim can help.__
+![example](static/example.gif)
 
 ## Instration
 Packer
