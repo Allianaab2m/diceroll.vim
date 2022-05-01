@@ -28,4 +28,4 @@ example:
 ## Feature
 - Powerline component
 - `n+[time]D[dice]` Type dice
-  - ex): 2+1D6 => [3, 4, 5, 6, 7, 8]
+  - ex): 2+1D6 => one of [3, 4, 5, 6, 7, 8]
